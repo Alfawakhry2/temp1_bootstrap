@@ -139,4 +139,32 @@ transform: translateX(0px);
 }
 /*?end our work */
 
+/* start stuff */
+.stuff .desc {
+    max-width: 600px;
+}
+/* end stuff */
+/*start team*/
+.team{
+    background-color: var(--bg-color);
+}
+.team h2{
+    color: var(--yellow-color);
+}
+.team .card h4{
+    background-color: var(--green-color);
+}
 
+/*end team*/
+/*start tech */
+
+/*end tech */
+/*start project */
+.project{
+    background-color: var(--dark-color);
+}
+/*end project */
+
+/*start blog */
+
+/*end blog */
